@@ -2,7 +2,7 @@
     "name": "scclogger",
     "version": "0.1.1",
     "type": "module",
-    "description": "Simple colorized logger",
+    "description": "Simple colorized console logger",
     "main": "./dist/cjs/index.js",
     "module": "./dist/esm/index.js",
     "types": "./dist/types/index.d.ts",
