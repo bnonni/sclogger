@@ -1,5 +1,5 @@
 {
-    "name": "sclogger",
+    "name": "@bnonni/sclogger",
     "version": "0.1.0",
     "type": "module",
     "description": "Simple colorized logger",
